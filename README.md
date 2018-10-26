@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-This is a space application system that assist astronaut to know about real-time Temperature, Humidity, Heat Index and Heart Rate inside space suit, which developed during [NASA Space Apps Challenge 2018](https://2018.spaceappschallenge.org/). This system have two major components: [Android App](https://github.com/jerrychong25/MarsMobilitySystem/tree/master/Android) and [Arduino App](https://github.com/jerrychong25/MarsMobilitySystem/tree/master/Arduino).
+This is a space application system that assists astronaut for capturing real-time Temperature, Humidity, Heat Index and Heart Rate from surrounding environment via various sensors and displays these data on LCD panel inside space suit, which developed during [NASA Space Apps Challenge 2018](https://2018.spaceappschallenge.org/). This system have two major components: [Android App](https://github.com/jerrychong25/MarsMobilitySystem/tree/master/Android) and [Arduino App](https://github.com/jerrychong25/MarsMobilitySystem/tree/master/Arduino).
 
 ## Deployment
 
@@ -10,7 +10,7 @@ Tested on Android 6.0 mobile phone and Arduino board.
 
 ## Built With
 
-[Android Studio 3.1.3](https://developer.android.com/studio/) 
+[Android Studio 3.1.3](https://developer.android.com/studio/)<br>
 [Arduino 1.8.7](https://www.arduino.cc/en/Main/Software)
 
 ## Versioning
