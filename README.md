@@ -11,7 +11,7 @@ Tested on Android 6.0 mobile phone and Arduino board.
 ## Built With
 
 [Android Studio 3.1.3](https://developer.android.com/studio/)<br>
-[Arduino 1.8.7](https://www.arduino.cc/en/Main/Software)
+[Arduino IDE 1.8.7](https://www.arduino.cc/en/Main/Software)
 
 ## Versioning
 
