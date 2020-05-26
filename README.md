@@ -1,5 +1,9 @@
 # Mars Mobility System
 
+[![GitHub release](https://img.shields.io/github/release/jerrychong25/MarsMobilitySystem.svg)](https://gitHub.com/jerrychong25/MarsMobilitySystem/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/jerrychong25/MarsMobilitySystem/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/jerrychong25/MarsMobilitySystem.svg)](http://hits.dwyl.com/jerrychong25/MarsMobilitySystem)
+
 ## Getting Started
 
 This is a space application system that assists astronaut for capturing real-time Temperature, Humidity, Heat Index and Heart Rate from surrounding environment via various sensors and displays these data on LCD panel inside space suit, which developed during [NASA Space Apps Challenge 2018](https://2018.spaceappschallenge.org/). This system have two major components: [Android App](https://github.com/jerrychong25/MarsMobilitySystem/tree/master/Android) and [Arduino App](https://github.com/jerrychong25/MarsMobilitySystem/tree/master/Arduino).
